@@ -1,0 +1,2 @@
+options:
+  config-file: ./node_modules/fs-default-project-config/resources/.sass-lint.yml
